@@ -34,7 +34,7 @@
 </table>
 
 
-**Course webpage**: TODO 
+**Course webpage**: [https://kcandon-skidmore.github.io/cs209-fall26](https://kcandon-skidmore.github.io/cs209-fall26)
 
 **Class meetings**
 <table >
