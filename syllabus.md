@@ -108,6 +108,14 @@ The course grade will be based on:
 ### Attendance policy
 For absences to not negatively affect your grade, please send me an email (preferably in advance of the class meeting), explaining your absence. If you miss a homework quiz at the start of a Lab session, for an excused absense, it is your responsibility to make up the quiz in office hours.
 
+### Late work policy
+Deadlines are primarily based around class meetings and require active participation in the course. Late work will not be accepted, unless discussed with the Instructor before the due date. 
+
+The general guideline is that, **with prior approval**, assignments can be submitted within 72 hours. 
+> Late penalty = maximum penalty × (hours late ÷ 72), capped at the maximum penalty. <br> Maximum penalty = 30%
+
+Exams *cannot* be made up, unless prior arrangements are discussed with the Instructor.
+
 ### Academic Integrity and the Honor Code
 As a member of the Skidmore College community, you agree to the College Honor Code: 
 > *I hereby accept membership in the Skidmore College community and, with full realization of the responsibilities inherent in membership, do agree to adhere to honesty and integrity in all relationships, to be considerate of the rights of others, and to abide by the college regulations.*

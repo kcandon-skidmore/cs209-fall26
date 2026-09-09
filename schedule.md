@@ -3,7 +3,7 @@ All updates (except for adding links for materials) will be communicated IN LECT
 
 | Date | Topic | To Dos |
 | --- | --- | --- |
-| W 9/9/2026 | Lab 1: Introduction & python review| ☐ [9/9 @4:20pm ET] Submit Lab 1 |
+| W 9/9/2026 | Introduction & Lab 1: Set up| ☐ [9/9 @4:20pm ET] Submit Lab 1 |
 | R 9/10/2026 | Lecture | |
 | T 9/15/2026 | Lecture | |
 | W 9/16/2026 | Lab 2: | ☐ [9/16 @2:30pm ET] Assignment 1 due <br>☐ [9/16 @4:20pm ET] Submit Lab 2 |
