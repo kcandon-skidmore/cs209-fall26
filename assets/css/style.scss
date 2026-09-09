@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width: 100%;
+}
+
+header {
+  width: 150px;
+  padding-right: 5px;
+  float: left;
+}
+
+section {
+  width: calc(100% - 320px);
+}
