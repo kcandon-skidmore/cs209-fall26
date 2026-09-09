@@ -90,7 +90,7 @@ By the end of the course, students should be able to:
 | Week 13 | Graphs |
 | Week 14 | Hash tables |
 
-Please see the <a href="/schedule.html">schedule</a> for more details.
+Please see the <a href="{{ '/schedule.html' | relative_url }}">schedule</a> for more details.
 
 ### Course materials
 No course textbook. Links will be provided for relevant readings.
