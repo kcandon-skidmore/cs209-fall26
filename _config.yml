@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: CS209 Data Structures and Mathematical Foundations
-url: "http://localhost:4000"
-baseurl: ""
+# For local development, use:
+#url: "http://localhost:4000"
+#baseurl: ""
 # For GitHub Pages later, change to:
-# url: "https://<your-username>.github.io"
-# baseurl: "/cs209-fall26"
+url: "https://kcandon-skidmore.github.io"
+baseurl: "/cs209-fall26"
