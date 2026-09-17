@@ -4,7 +4,7 @@
 
 **Instructor: Kate Candon**
 <br>Email: kcandon@skidmore.edu
-<br>Office location: CIS 240E
+<br>Office location: CIS 230E
 
 
 
