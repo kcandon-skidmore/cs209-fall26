@@ -5,12 +5,12 @@ All updates (except for adding links for materials) will be communicated IN LECT
 | --- | --- | --- |
 | W 9/9/2026 | Introduction & Lab 1: Set up| ~~☐ [9/9 @4:20pm ET] Submit Lab 1~~ |
 | R 9/10/2026 | Lecture 1: Lab set up & What is a proof?| ☐ [9/10 @4:20pm ET] Submit Lab 1 |
-| T 9/15/2026 | Lecture | |
-| W 9/16/2026 | Lab 2: | ☐ [9/16 @4:20pm ET] Submit Lab 2 |
-| R 9/17/2026 | Lecture | |
-| T 9/22/2026 | Lecture | |
-| W 9/23/2026 | Lab 3: | ☐ [9/23 @2:30pm ET] Assignment 1 due <br> ☐ [9/23 @4:20pm ET] Submit Lab 3|
-| R 9/24/2026 | Lecture | |
+| T 9/15/2026 | Lecture 2: Proofs, Logic, Mathematical Induction| |
+| W 9/16/2026 | Lab 2: Logic, Recursion, and Mathematical Induction | ☐ [9/16 @4:20pm ET] Submit Lab 2 |
+| R 9/17/2026 | Lecture 3: What is a data structure? | |
+| T 9/22/2026 | Lecture 4: Linked Lists| |
+| W 9/23/2026 | Lab 3: Linked Lists | ☐ [9/23 @2:30pm ET] Assignment 1 due <br> ☐ [9/23 @4:20pm ET] Submit Lab 3|
+| R 9/24/2026 | Lecture 5: Algorithmic Analysis| |
 | T 9/29/2026 | Lecture | |
 | W 9/30/2026 | Lab 4: | ☐ [9/30 @2:30pm ET] Assignment 2 due <br>☐ [9/30 @4:20pm ET] Submit Lab 4|
 | R 10/1/2026 | Lecture | |

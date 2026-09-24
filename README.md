@@ -6,3 +6,6 @@ Create Jekyll page:
 ```
 bundle install && bundle exec jekyll build
 ```
+
+Export .md to pdf:
+CMD + Shift + P: Markdown PDF: Export (pdf)
